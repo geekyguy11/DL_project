@@ -26,7 +26,7 @@ This repository contains the complete Digital Literacy Portfolio developed as pa
 # Task 2: Student Digital PortfolioObjective: Establish a professional digital footprint across industry-standard platforms.Platforms: GitHub, LinkedIn, and Kaggle.
  Summary: Developed a foundational professional presence, including a customized GitHub profile README and updated academic credentials on LinkedIn.
 
-# Task 3: Coding and Cloud CollaborationObjective: Demonstrate familiarity with coding practice environments and cloud-based collaborative tools.Platforms: HackerRank and Google Workspace.
+# Task 3: Coding and Cloud Collaboration Objective: Demonstrate familiarity with coding practice environments and cloud-based collaborative tools.Platforms: HackerRank and Google Workspace.
  Summary: Completed beginner-level coding challenges and designed a 5-question "Digital Literacy Awareness Quiz" using Google Forms to engage batchmates.
 
 # Task 4: Professional Email & Social Media EtiquetteObjective: Master professional communication standards for academic and corporate environments.
